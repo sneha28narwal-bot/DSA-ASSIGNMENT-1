@@ -1,1 +1,2 @@
 # DSA-ASSIGNMENT-1
+week 1
